@@ -1,0 +1,6 @@
+PyQt6
+requests
+chinese-calendar
+schedule
+winotify
+Pillow 
